@@ -1,0 +1,21 @@
+{
+  "name": "@zeelyn/excel-to-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeelyn/excel-to-table"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OWEN",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
